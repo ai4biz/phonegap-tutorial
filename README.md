@@ -1,11 +1,11 @@
 # social-crm-mobile
 Social CRM Mobile
 
-#PhoneGap
+###PhoneGap
 http://phonegap.com
 http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/
 
-# Install
+### Install
 Run the command line below:
 
 ```
@@ -22,7 +22,7 @@ Install Gulp
 npm install gulp
 ```
 
-# Fix Error below:
+### Fix Error below:
 
 ```
 Caios-MacBook-Pro:Geolocation_Phonegap caiomsouza$ gulp
@@ -50,7 +50,7 @@ Fixed typing:
 npm install
 ```
 
-#Error 2
+###Error 2
 
 ```
 Caios-MacBook-Pro:Geolocation_Phonegap caiomsouza$ gulp
@@ -78,7 +78,7 @@ Fixed typing:
 bower install --save mobile-angular-ui
 ```
 
-#To Run the app just type the command below in the app folder:
+###To Run the app just type the command below in the app folder:
 
 ```
 gulp
@@ -114,9 +114,9 @@ Caios-MacBook-Pro:Geolocation_Phonegap caiomsouza$ gulp
 [14:11:35] Server started http://0.0.0.0:8000
 [14:11:35] LiveReload started on port 35729
 connect deprecated res.headerSent: use standard res.headersSent node_modules/express/node_modules/connect/lib/http.js:149:22
-``
+```
 
-# Type the command below To create:
+### Type the command below To create:
 
 iOS version
 ```
@@ -128,7 +128,7 @@ Android version
 phonegap run android
 ```
 
-
+### Open the browser at http://localhost:8000
 
 
 
