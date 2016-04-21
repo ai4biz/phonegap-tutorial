@@ -130,6 +130,15 @@ phonegap run android
 
 ### Open the browser at http://localhost:8000
 
+###Deploy App in iOS
+
+Error
+
+```
+Caios-MacBook-Pro:Geolocation_Phonegap caiomsouza$ phonegap run ios
+[phonegap] executing 'cordova run ios'...
+Error: ios-deploy was not found. Please download, build and install version 1.8.3 or greater from https://github.com/phonegap/ios-deploy into your path, or do 'npm install -g ios-deploy'
+```
 
 
 
