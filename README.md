@@ -52,6 +52,10 @@ Fixed typing:
 npm install
 ```
 
+Source:<BR>
+http://stackoverflow.com/questions/21406738/cant-get-gulp-to-run-cannot-find-module-gulp-util<BR>
+
+
 ###Error 2
 
 ```
