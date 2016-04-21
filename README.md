@@ -17,4 +17,10 @@ Then run the command to install phonegap:
 sudo npm install -g phonegap
 ```
 
+Install Gulp
+```
+npm install gulp
+```
+
+
 
