@@ -1,4 +1,4 @@
-# social-crm-mobile
+#social-crm-mobile
 Social CRM Mobile
 
 ###PhoneGap
@@ -120,12 +120,23 @@ connect deprecated res.headerSent: use standard res.headersSent node_modules/exp
 
 iOS version
 ```
-phonegap run ios
+phonegap run ios 
+```
+
+OR 
+
+```
+cordova run ios
 ```
 
 Android version
 ```
 phonegap run android
+```
+
+OR
+```
+cordova run android
 ```
 
 ### Open the browser at http://localhost:8000
@@ -139,6 +150,13 @@ Caios-MacBook-Pro:Geolocation_Phonegap caiomsouza$ phonegap run ios
 [phonegap] executing 'cordova run ios'...
 Error: ios-deploy was not found. Please download, build and install version 1.8.3 or greater from https://github.com/phonegap/ios-deploy into your path, or do 'npm install -g ios-deploy'
 ```
+
+To fix it
+
+```
+npm install -g ios-deploy
+```
+
 
 
 
