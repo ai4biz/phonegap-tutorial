@@ -1,5 +1,4 @@
-#social-crm-mobile
-Social CRM Mobile
+#Phone GAP Tutorial
 
 ###PhoneGap
 "PhoneGap is a distribution of Apache Cordova. You can think of Apache Cordova as the engine that powers PhoneGap, similar to how WebKit is the engine that powers Chrome or Safari."
